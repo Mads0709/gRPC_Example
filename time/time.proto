@@ -1,0 +1,4 @@
+
+
+package time;
+option go_package = "https://github.com/Mads0709/gRPC_Example;time";
